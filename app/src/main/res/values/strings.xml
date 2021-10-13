@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">W3 D4 L1</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="hello_from_second_page">Hello from Second Page</string>
+    <string name="page_2">Page 2</string>
+    <string translatable="false"
+        name="INTENT_VARIABLE">getthigas</string>
+    <string name="say_hello_back">Say Hello Back</string>
+    <string translatable="false" name="HELLO_BACK">resultkey</string>
+    <string name="go_back">Go Back</string>
+    <string name="request_data_back">Request Data Back</string>
+</resources>
